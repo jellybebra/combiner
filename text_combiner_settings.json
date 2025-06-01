@@ -1,0 +1,4 @@
+{
+    "exclude_files_regex": "",
+    "exclude_folders_regex": "(__pycache__|migrations)"
+}

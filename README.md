@@ -1,2 +1,7 @@
-# combiner
-Combine files into one file easily
+```powershell
+cp -r C:/Users/Wok/AppData/Local/Programs/Python/Python313/tcl .venv/
+```
+
+```
+(__pycache__|migrations)
+```
